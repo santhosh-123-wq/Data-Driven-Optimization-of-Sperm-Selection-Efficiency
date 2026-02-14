@@ -34,13 +34,12 @@ Visualization (Power BI)
 Created dashboard showing fertilization success patterns 
 
 Insights:
-o	Progressive motility impact (gives 63.1% success at >50% motility rate)
 
-o	Sperm with “Normal” shape (gives 64% success at >10% normal rate)
+o	Highlighted major components which are effected the fertilization success
 
-o	Embryologists’ performance variance (Embryologists with higher experience have 68% success and embryologists with lower experience have 52% success rate (16% gap))
+o	Detected that Embryologists performance are based on their experience
 
-o	Lab Humidity Optimization (gives 62.4% success at 50-55%)
+o	Provided data-driven recommendation to improve the fertilization success rate 
 
 Tools:
 
