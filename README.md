@@ -25,7 +25,7 @@ Handled missing values, duplicates and inconsistent entries
 
 Standardized data formats for analysis
 
-Saved the cleaned dataset as csv for further analysis
+Saved the Cleaned and Transformed data in CSV for further analysis
 
 Exploratory data analysis (EDA)
 
