@@ -25,6 +25,8 @@ Handled missing values, duplicates and inconsistent entries
 
 Standardized data formats for analysis
 
+Saved the cleaned dataset as csv for further analysis
+
 Exploratory data analysis (EDA)
 
 Identified Fertilization failure trends
